@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AppDatePicker">
+        <attr name="month_font" format="reference" />
+        <attr name="month_text_size" format="dimension" />
+        <attr name="month_text_color" format="color" />
+        <attr name="day_of_month_text_size" format="dimension" />
+        <attr name="day_of_month_font" format="reference" />
+        <attr name="day_of_month_color" format="color" />
+        <attr name="day_of_week_text_size" format="dimension" />
+        <attr name="day_of_week_font" format="reference" />
+        <attr name="day_of_week_color" format="color" />
+        <attr name="item_text_size" format="dimension" />
+        <attr name="item_font" format="reference" />
+        <attr name="item_color" format="reference" />
+
+        <attr name="year_text_size" format="dimension" />
+        <attr name="year_font" format="reference" />
+        <attr name="year_color" format="reference" />
+        <attr name="selectionColor" format="color" />
+        <attr name="pickerBackgroundColor" format="color" />
+    </declare-styleable>
+</resources>
